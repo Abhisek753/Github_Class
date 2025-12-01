@@ -7,6 +7,6 @@ const HelloAdity=(name)=>{
 HelloAdity("Adity")
 
 const Mastercode=()=>{
-    console.log("master code");
+    console.log("master code updated");
 }
 Mastercode()
